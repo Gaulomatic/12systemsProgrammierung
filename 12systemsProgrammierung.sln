@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "src\ConsoleApp\ConsoleApp.csproj", "{DC2A59EA-4431-4051-AC1D-E8131AAE6C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApp", "src\AvaloniaApp\AvaloniaApp.csproj", "{8D75CC85-F561-45C1-8341-54EC168097B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Classic", "src\ConsoleApp.Classic\ConsoleApp.Classic.csproj", "{B7833D25-B8EC-4887-A086-D7657389F23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D75CC85-F561-45C1-8341-54EC168097B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D75CC85-F561-45C1-8341-54EC168097B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D75CC85-F561-45C1-8341-54EC168097B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D75CC85-F561-45C1-8341-54EC168097B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7833D25-B8EC-4887-A086-D7657389F23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7833D25-B8EC-4887-A086-D7657389F23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7833D25-B8EC-4887-A086-D7657389F23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7833D25-B8EC-4887-A086-D7657389F23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
